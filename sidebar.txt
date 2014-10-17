@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kel:home|Door43 (kel)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kel|d43-kel repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kel/archive/master.zip|d43-kel.zip]]
+
+**Recent Changes**
+{{changes>ns = kel}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kel|Ethnologue data]]
+
